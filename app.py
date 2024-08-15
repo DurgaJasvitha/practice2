@@ -9,3 +9,11 @@ def division(a,b):
 
 def mul(a,b):
     return a*b
+
+def nice():
+    return addition(9,8)
+
+def right():
+    return 6
+def dev():
+    print("hi")
