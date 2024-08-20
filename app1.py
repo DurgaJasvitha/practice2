@@ -1,0 +1,2 @@
+def rise():
+    print("hello")
