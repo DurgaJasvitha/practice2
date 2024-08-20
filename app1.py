@@ -8,3 +8,5 @@ def lie():
 
 def life():
     print("hi")
+    lie()
+
