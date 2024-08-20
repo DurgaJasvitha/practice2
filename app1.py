@@ -4,3 +4,7 @@ def rise():
 
 def lie():
     print("lie")
+
+
+def life():
+    print("hi")
